@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "602802770206",
+    "firebase_url": "https://dhakacityguide-80e3c.firebaseio.com",
+    "project_id": "dhakacityguide-80e3c",
+    "storage_bucket": "dhakacityguide-80e3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602802770206:android:cc6f1ddcf36e52cd",
+        "android_client_info": {
+          "package_name": "com.example.user.dhakabd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602802770206-vgg2d6p9h5148ealoejrgrumv4q7ugat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.dhakabd",
+            "certificate_hash": "e863ffa17fcc43262231d35aad0a939e84d07337"
+          }
+        },
+        {
+          "client_id": "602802770206-idnn97l1o4knkhcum0h66e3m2m170aiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFviv2VsmL76LY68iAOJSWhlnXRpqpa_g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602802770206-idnn97l1o4knkhcum0h66e3m2m170aiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
